@@ -78,5 +78,6 @@ STFAR31VQTAMTKB6XNHHZB52MGTGJB4HD6R9R4F7.SustainabilityScoring
 - Automated ESG Score (0-100 scale)
 
 *For detailed technical documentation and integration guides, please refer to the contract code and developer documentation.*
-<img width="1308" height="903" alt="Screenshot 2025-08-26 104611" src="https://github.com/user-attachments/assets/2b290693-4c73-40e0-bdd5-f988b92cf7d6" />
+<img width="1916" height="898" alt="image" src="https://github.com/user-attachments/assets/3056ee91-d8a1-4d34-af3f-94fa230c84f7" />
+
 
