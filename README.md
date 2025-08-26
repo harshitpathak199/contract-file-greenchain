@@ -1,5 +1,6 @@
 # SustainabilityScoring
 
+
 ## Project Description
 
 SustainabilityScoring is an innovative ESG (Environmental, Social, and Governance) rating system built on blockchain technology that enables companies to submit verifiable environmental data and receive transparent, automated sustainability scores. The system eliminates the opacity and potential manipulation found in traditional ESG rating agencies by leveraging the immutable and transparent nature of blockchain technology.
@@ -77,3 +78,5 @@ STFAR31VQTAMTKB6XNHHZB52MGTGJB4HD6R9R4F7.SustainabilityScoring
 - Automated ESG Score (0-100 scale)
 
 *For detailed technical documentation and integration guides, please refer to the contract code and developer documentation.*
+<img width="1308" height="903" alt="Screenshot 2025-08-26 104611" src="https://github.com/user-attachments/assets/2b290693-4c73-40e0-bdd5-f988b92cf7d6" />
+
